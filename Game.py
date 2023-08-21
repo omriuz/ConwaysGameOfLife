@@ -4,7 +4,7 @@ from random import randint
 
 # constants variables
 WIDTH, HEIGHT, CELL_SIZE = 140, 90, 8
-WHITE, BLACK, GREEN, BLUE = (255, 255, 255), (0, 0, 0), (0, 255, 0), (0, 0, 128)
+WHITE, BLACK, GREEN, BLUE = (255, 0, 255), (0, 0, 0), (0, 255, 0), (0, 0, 128)
 RED, BACKGROUND, GRID = (255, 0, 0), (10, 10, 40), (30, 30, 60)
 
 
